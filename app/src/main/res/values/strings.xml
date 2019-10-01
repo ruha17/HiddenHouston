@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">HiddenHouston</string>
+
+    <string name="Welcome"> Welcome to Hidden Houston! </string>
+
+    <string name="explore"> Start Exploring: </string>
+
+    <string name="Button1"> 1.the Earlybirds: Breakfast/ Brunch </string>
+
+    <string name="Button2"> 2.the goGetters: Lunch </string>
+
+    <string name="Button3"> 3.the : Dinner </string>
+
+    <string name="Button4"> 4.stayCaffinated : Cafe </string>
+
+    <string name="Button5"> 5.the nightLife: Bars </string>
+
+
+</resources>
